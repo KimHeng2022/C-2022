@@ -6,7 +6,7 @@ int main(){
     int count = 1;
     int As;
     for(As=1; As<=max; As++){
-        if(Address[As]!='\0'){   //
+        if(Address[As]!='/0'){   //count from 1
             count++;  
         }
         else{

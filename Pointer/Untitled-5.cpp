@@ -6,9 +6,9 @@ int main(){
     for(int i=0; i<3; i++){
         cin>>*arr[i];
     }
-    cout<
+    cout<<"daivd";
     for(int j=0; j<3; j++){
-        *(arr[j]+1);
+          *(arr[j]+1);  
         cout<<arr[j];
     }
 }
